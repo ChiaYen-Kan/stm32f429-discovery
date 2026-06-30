@@ -56,6 +56,8 @@ Supported usb bluetooth dongle
 | Realtek bluetooth 5.4 | 0x0bda | 0xa728 | <a href="./pic/Realtek bluetooth 5.4.jpg"><img src="./pic/Realtek bluetooth 5.4.jpg" alt="Realtek bluetooth 5.4" width="100"/></a> |
 | Realtek bluetooth 6.0 | 0x0bda | 0xa760 | <a href="./pic/Realtek bluetooth 6.0.jpg"><img src="./pic/Realtek bluetooth 6.0.jpg" alt="Realtek bluetooth 6.0" width="100"/></a> |
 
+About wireshark usb capture data
+-------------
+in **capture** folder has wireshark capture data for debug
 
-
-
+all data is capture with [ataradov/usb-sniffer](https://github.com/ataradov/usb-sniffer) usb sniffer
